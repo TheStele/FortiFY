@@ -1,0 +1,4 @@
+[submodule "java-settings"]
+	path = java-settings
+	url = git@github.com:stelesoft/java-settings.git
+	branch = master
